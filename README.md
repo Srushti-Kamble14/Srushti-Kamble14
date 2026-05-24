@@ -22,7 +22,7 @@
 const srushti = {
   name: "Srushti Kamble",
   role: "Full Stack Developer",
-  location: "Pune, Maharashtra 🇮🇳",
+  location: "Nagpur, Maharashtra 🇮🇳",
   passion: ["Building scalable apps", "Clean code", "UI/UX design"],
   currentlyLearning: ["System Design", "Cloud Architecture"],
   funFact: "I debug with coffee ☕ and curiosity 🔍"
@@ -77,23 +77,6 @@ const srushti = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Srushti-Kamble14&show_icons=true&theme=github_dark&title_color=C9A8FF&icon_color=B48FFF&text_color=e8e0f5&bg_color=0e0b14&border_color=8b6abf&border_radius=10" height="165" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Kamble14&layout=compact&theme=github_dark&title_color=C9A8FF&text_color=e8e0f5&bg_color=0e0b14&border_color=8b6abf&border_radius=10" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Srushti-Kamble14&theme=dark&background=0e0b14&ring=B48FFF&fire=C9A8FF&currStreakLabel=C9A8FF&sideLabels=C9A8FF&currStreakNum=e8e0f5&sideNums=e8e0f5&dates=5a4870&border=8b6abf&border_radius=10" alt="GitHub Streak" />
-
-</div>
 
 ---
 
@@ -121,7 +104,7 @@ const srushti = {
 
 ## 💬 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I turn caffeine and curiosity into things that actually work
 
 </div>
 
